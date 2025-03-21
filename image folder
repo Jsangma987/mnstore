@@ -1,0 +1,14 @@
+mnstore/
+│
+├── index.html          # Homepage
+├── products.html       # Products Page
+├── about.html          # About Us Page
+├── contact.html        # Contact Page
+├── style.css           # Shared CSS file
+├── script.js           # Shared JavaScript file
+├── images/             # Folder for images
+│   ├── product1.jpg
+│   ├── product2.jpg
+│   ├── product3.jpg
+│   └── logo.png
+└── README.md           # Project documentation
